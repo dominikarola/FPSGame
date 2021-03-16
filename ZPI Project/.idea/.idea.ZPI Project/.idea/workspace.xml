@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f1e9dc6-f869-4dc0-a84f-ac6bc2910a14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Textures/Scripts/RoomListItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerGroundCheck.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Launcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoomListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuM.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Textures/Scripts/RoomListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Textures/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoomManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Textures/Scripts/Launcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerGroundCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n6ZfU06GM6kDNf10jFiFJ0IkcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f1e9dc6-f869-4dc0-a84f-ac6bc2910a14" name="Default Changelist" comment="" />
+      <created>1610712606874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610712606874</updated>
+      <workItem from="1610712623844" duration="972000" />
+      <workItem from="1610714786525" duration="1793000" />
+      <workItem from="1610716861199" duration="1435000" />
+      <workItem from="1610722342942" duration="591000" />
+      <workItem from="1610732950325" duration="1771000" />
+      <workItem from="1610734797549" duration="485000" />
+      <workItem from="1610915939389" duration="599000" />
+      <workItem from="1610919884776" duration="1182000" />
+      <workItem from="1610921854263" duration="1790000" />
+      <workItem from="1610923807282" duration="565000" />
+      <workItem from="1611580601138" duration="11000000" />
+      <workItem from="1611684710674" duration="1625000" />
+      <workItem from="1611696140409" duration="5478000" />
+      <workItem from="1611931527339" duration="5000" />
+      <workItem from="1611931603211" duration="716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1194" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610924121880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1194" y="210" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610924121880" />
+  </component>
+</project>
